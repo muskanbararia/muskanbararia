@@ -33,3 +33,6 @@ I mostly break things here 😁
 ### Thanks for your Time, Here's a random joke:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### I am currently working on my DS Algo skills.
+- [Karatsuba Multiplication](https://app.codingrooms.com/w/uso69tD1XrfF)
