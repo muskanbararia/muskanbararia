@@ -18,3 +18,6 @@ I mostly break and patch things here 😁
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🎮 &nbsp; I am slightly obsessed with Starfield and Detroit:Become Human.
 
+- ### My Stats
+![muskanbararia's Stats](https://github-readme-stats.vercel.app/api?username=muskanbararia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
